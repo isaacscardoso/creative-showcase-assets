@@ -4,7 +4,7 @@ id,name,is_highlighted,description,image
 3,JavaScript,false,Linguagem de programação para interatividade em páginas web.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/javascript.svg
 4,TypeScript,true,Superset do JavaScript que adiciona tipagem estática.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/typescript.svg
 5,Node.js,true,Ambiente de execução JavaScript no lado do servidor.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/node.svg
-6,Java,true,Linguagem de programação orientada a objetos.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/java.svg
+6,Java,false,Linguagem de programação orientada a objetos.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/java.svg
 7,Python,true,Linguagem de programação interpretada de alto nível.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/python.svg
 8,NestJS,true,Framework para construção de aplicações back-end em Node.js.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/nest.svg
 9,Express.js,false,Framework web minimalista para Node.js.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/express.svg
@@ -20,8 +20,8 @@ id,name,is_highlighted,description,image
 19,Terraform,false,Ferramenta de infraestrutura como código para gerenciamento de recursos na nuvem.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/terraform.svg
 20,Firebase,false,Plataforma de desenvolvimento de aplicativos móveis e web da Google.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/firebase.svg
 21,React Native,false,Biblioteca para desenvolvimento de aplicativos móveis com React.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/react.svg
-22,Next.js,false,Framework React para construção de aplicações web.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/next.svg
-23,Prisma,false,ORM para Node.js e TypeScript com suporte a diversos bancos de dados.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/prisma.svg
+22,Next.js,true,Framework React para construção de aplicações web.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/next.svg
+23,Prisma,true,ORM para Node.js e TypeScript com suporte a diversos bancos de dados.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/prisma.svg
 24,Supabase,false,Plataforma open-source para desenvolvimento de aplicativos web e APIs.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/supabase.svg
 25,Tailwind CSS,false,Framework CSS para construção de interfaces de usuário.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/tailwind.svg
 26,Flutter,true,Framework para desenvolvimento de aplicativos móveis nativos.,https://raw.githubusercontent.com/isaacscardoso/creative-showcase-assets/refs/heads/main/images/flutter.svg
